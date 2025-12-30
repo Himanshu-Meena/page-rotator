@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Page Rotator",
+  "version": "1.0",
+  "description": "Rotate any webpage by 90, 180, or 270 degrees.",
+  "permissions": ["scripting", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
