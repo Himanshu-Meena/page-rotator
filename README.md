@@ -20,12 +20,12 @@ Since this extension is not on the Chrome Web Store, you must install it manuall
 2. **Open Chrome Extensions:**
    * In your Chrome address bar, type `chrome://extensions/` and hit Enter.
 
-3. **Enable Developer Mode:**
-   * In the top right corner, toggle the switch that says **Developer mode** to **ON**.
+3. **Enable Developer Mode in Browser:**
+   * In the top right corner of extensions page, toggle the switch that says **Developer mode** to **ON**.
 
 4. **Load the Extension:**
    * Click the **Load unpacked** button that appears in the top left.
-   * Select the folder where you extracted the files (the folder containing `manifest.json`).
+   * Select the folder where you extracted the files (the folder containing the downloaded files).
 
 5. **Pin for Easy Access:**
    * Click the "Puzzle Piece" icon next to your profile picture in Chrome and pin **Page Rotator** to your toolbar.
